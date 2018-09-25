@@ -1,0 +1,16 @@
+body {
+    background-image: url("images/background.jpg");
+}
+
+.container {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+
+#title {
+    padding: 15px;
+}
